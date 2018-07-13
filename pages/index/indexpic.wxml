@@ -1,0 +1,12 @@
+<!--pages/index/indexpic.wxml-->
+<view class="usermotto" style='text-align: center;' bindtap="pictap">
+  压缩图片
+</view> 
+<canvas class='img' canvas-id="attendCanvasId"></canvas>
+<view class="usermotto2" style='text-align: center;' bindtap="pic2tap">
+  获取压缩图片
+</view>
+
+<image class='img3' src='{{canvasImgUrl2}}'> </image> 
+
+<image class='botom'src='{{Url}}' ></image>

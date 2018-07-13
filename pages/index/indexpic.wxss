@@ -1,0 +1,51 @@
+/* pages/index/indexpic.wxss */
+
+.usermotto {
+  width: 750rpx;
+  height: 60px;
+  align-items: center;
+  align-content: center;
+}
+
+.viewshow {
+  flex-direction: row;
+  height: 80px;
+  width: 160px;
+}
+
+.img {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 30px;
+  left: 100px;
+}
+
+
+
+.img3 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  left: 100px;
+  top: 150px;
+}
+
+.usermotto2 {
+  position: absolute;
+  width: 750rpx;
+  height: 60px;
+  top: 130px;
+  align-items: center;
+  align-content: center;
+}
+
+.botom {
+  position: absolute;
+  bottom: 0px;
+  height: 200px;
+  left: 50px;
+  align-items: center;
+  align-content: center;
+  width: 200px;
+}
